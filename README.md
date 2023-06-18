@@ -14,10 +14,11 @@ python3 unicode_equivalent.py
 python3 unicode_equivalent.py -i ">"
 python3 unicode_equivalent.py -i "<"
 ```
-![Screenshot from 2023-06-12 16-57-46](https://github.com/amir-h-fallahi/unicode_equivalent/assets/63167700/6be73965-b4e6-4e4f-bb6b-f92f26b43ea4)
+![image](https://github.com/amir-h-fallahi/unicode_equivalent/assets/63167700/cd98461b-9ed1-40f3-89d6-f0da0d641dbd)
+
 
 ```sh
-python3 unicode_equivalent.py -i "." -f NFKD
-python3 unicode_equivalent.py -i "/" -f NFKD
+python3 unicode_equivalent.py -i "."
+python3 unicode_equivalent.py -i "/"
 ```
-![image](https://github.com/amir-h-fallahi/unicode_equivalent/assets/63167700/0a95b8ee-5103-4962-86f3-049795ced7e1)
+![image](https://github.com/amir-h-fallahi/unicode_equivalent/assets/63167700/12ed207b-bea4-4d26-afc2-cefe18e7cbbb)
